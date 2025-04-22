@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ankit Khatri
 - 🚴‍♂️ You can reach out to me
   - via Linkedin [Ankit Khatri's Linkedin](https://www.linkedin.com/in/ankitkhatriofficial)
-  - via Instagram [Ankit Khatri's Instagram](https://www.instagram.com/me_ankit_khatri)
+  - via Instagram [Ankit Khatri's Instagram](https://www.instagram.com/ankitkhatriofficial)
   
 [![Ankit Khatri's github stats](https://github-readme-stats.vercel.app/api?username=ankitkhatri0&count_private=true&include_all_commits=true&theme=default&show_icons=true)](https://www.github.com/ankitkhatri0)
 <br/>
